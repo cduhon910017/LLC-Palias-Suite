@@ -1,0 +1,47 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.1700.03
+  IsProgram=1
+  TopLevelProgram=Palais Suite 237.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Palais Suite 237_CrosspointList.txt
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=FlatPanelDisplay_LG_LG Remote.ir
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Enseo Hospitality Box v1.00.umc
+  Scope=1
+[END]
